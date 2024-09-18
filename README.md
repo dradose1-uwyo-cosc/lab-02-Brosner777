@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Braxton Rosner]
+## [ALab 02]
+## [Submission date: 09/18/2024]
 ## Worked with/sources 
 * example
 * example
