@@ -20,7 +20,7 @@ hello_message = "Hello, COSC1010"
 print(hello_message)
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
-CJ = "cowboy joe"
+CJ = "Cowboy Joe"
 print(CJ)
 
 # Complete the following f-string print message 
