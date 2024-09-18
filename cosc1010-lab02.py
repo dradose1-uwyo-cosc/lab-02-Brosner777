@@ -1,9 +1,9 @@
-# Your Name Here
+# Braxton Rosner
 # UWYO COSC 1010
-# Submission Date
+# 09/18/2024
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 15 
+# Sources, people worked with, help given to: N/A
 # your
 # comments
 # here
